@@ -1,0 +1,1 @@
+I specialize in high-fidelity data extraction for ML/AI training, automation, and data analysis on Apify. I’ve published a YouTube Transcript Scraper and a TripAdvisor Reviews Scraper (Crawlee + Camoufox), and I’m building more Actors for the Store. I write about what actually worked—and what failed—when shipping scrapers in production.
