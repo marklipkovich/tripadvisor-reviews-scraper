@@ -1,0 +1,6 @@
+apify ~= 3.3.0
+camoufox[geoip] ~= 0.4.11
+geoip2 >= 4.8.0
+crawlee[playwright] ~= 1.5.0
+httpx ~= 0.28.1
+typing-extensions ~= 4.15.0
