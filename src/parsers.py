@@ -386,7 +386,6 @@ def parse_review_from_graphql(data: list) -> list[dict]:
                     "helpfulVotes": int(r.get("helpfulVotes") or r.get("helpful_votes") or 0),
                     "reviewerName": name,
                     "placeName": place_name,
-                    "placeUrl": place_web_url,
                     "publishedPlatform": r.get("publishPlatform"),
                     "locationId": str(loc.get("locationId") or r.get("locationId") or ""),
                     "subratings": subratings,

@@ -715,8 +715,7 @@ After a successful run, the Actor produces two datasets. Field names in the pars
     "tripType": "NONE",
     "lang": "en",
     "reviewerName": "Stephen O",
-    "helpfulVotes": 0,
-    "placeUrl": "https://www.tripadvisor.com/Hotel_Review-g190327-d264939-Reviews-The_Waterfront_Hotel-Sliema_Island_of_Malta.html",
+    "helpfulVotes": 0,    
     "managementResponse": null
   }
 ]

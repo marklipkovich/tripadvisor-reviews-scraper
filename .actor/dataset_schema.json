@@ -16,8 +16,7 @@
 					"tripType",
 					"lang",
 					"reviewerName",
-					"helpfulVotes",
-					"placeUrl"
+					"helpfulVotes"
 				]
 			},
 			"display": {
@@ -62,10 +61,6 @@
 					"helpfulVotes": {
 						"label": "Helpful",
 						"format": "number"
-					},
-					"placeUrl": {
-						"label": "Place URL",
-						"format": "link"
 					}
 				}
 			}
@@ -76,7 +71,6 @@
 				"fields": [
 					"id",
 					"placeName",
-					"placeUrl",
 					"title",
 					"text",
 					"rating",
@@ -102,10 +96,6 @@
 					"placeName": {
 						"label": "Place",
 						"format": "text"
-					},
-					"placeUrl": {
-						"label": "Place URL",
-						"format": "link"
 					},
 					"title": {
 						"label": "Title",
