@@ -1,5 +1,5 @@
 """
-General utilities: retry helper, URL normalisation, place/output helpers.
+General utilities: retry helper, URL normalisation, place/output helpers
 
 with_retry            — async exponential-backoff retry wrapper.
 normalize_place_url   — cleans and validates a TripAdvisor place URL.
